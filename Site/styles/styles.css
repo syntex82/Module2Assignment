@@ -180,11 +180,11 @@ p {
 }
 
 .porkdishes {
-    background: rgb(3, 248, 228);
+    background: rgb(248, 3, 3);
 }
 .beefdishes{
     color: rgb(10, 10, 10);
-    background: rgb(3, 248, 228);
+    background: rgb(56, 3, 248);
 }
 .fishdishes{
   background: rgb(3, 248, 228);
